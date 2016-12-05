@@ -1,1 +1,22 @@
+body {
+    background-image: url("wine.jpg");
+    text-align: center;
+    color: white;
+    line-height: 2rem;
+    font-family: sans-serif;
+}
 
+.question {
+    padding: 1rem;
+}
+
+button {
+    margin-top: 1rem;
+    border-radius: 1rem;
+    font-size: 2rem;
+}
+
+ul {
+    display: inline-block;
+    padding: 10px;
+}
